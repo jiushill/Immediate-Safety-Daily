@@ -11,3 +11,5 @@
 
 ## 2019-5 ##
 5月7号:[2019-5-7](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-5-7%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
+
+5-8&&5-9:[2019-5-8&&2019-5-9](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-5-8and5-9.md)
