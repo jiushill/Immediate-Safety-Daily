@@ -23,3 +23,5 @@
 5-16:[5-16](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-5-16%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
 
 5-20:[5-20](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-5-20%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
+
+5-21:[5-21](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-5-21%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
