@@ -43,3 +43,5 @@
 6-3:[6-3](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-6-3%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
 
 6-5:[6-5](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-6-5%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
+
+6-6:[6-6](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-6-6%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
