@@ -55,3 +55,5 @@
 6-12:[6-12](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-6-12安全快报.md)
 
 6-13:[6-13](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/2019-6-13安全快报.md)
+
+6-14:[6-14](https://github.com/422926799/Immediate-Safety-Daily/blob/master/2019/%E5%AE%89%E5%85%A8%E5%BF%AB%E6%8A%A5.md)
